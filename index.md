@@ -1,7 +1,7 @@
 Pretty Pass is available for Android.
 
 <img align='center' height='64' src='./img/icon.svg'/>
-<a href=''><img align='center' height='55' src='https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Play_Store_badge_IT.svg'></a>
+<a href=''><img align='center' height='55' src='https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg'></a>
 
 ### Privacy Policy
 
